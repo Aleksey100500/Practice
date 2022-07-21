@@ -1,0 +1,5 @@
+if(condition) {
+ /// condition - TRUE   -- - - ЕСЛИ УЛСОВИЕ ИСТИННО
+} else {
+ /// condition - FALSE ------ В ДРУГОМ
+}
